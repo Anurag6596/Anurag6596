@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Javascript**
 
-- 🌱 Finiished Learning **C**
+- 🌱 Finished Learning **C** 
 
 - 👯 I’m looking to collaborate with **Microsoft**
 
