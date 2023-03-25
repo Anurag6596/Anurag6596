@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Javascript**
 
-- 🌱 I’m currently learning C 
+- 🌱 Finiished Learning **C**
 
 - 👯 I’m looking to collaborate with **Microsoft**
 
-- 💬 Ask me about **HTML CSS AND C**
+- 💬 Ask me about **HTML CSS AND JAVASCRIPT C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
