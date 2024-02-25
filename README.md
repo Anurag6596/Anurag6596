@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **App Devlopment**
 
-- 🌱 Finished Learning **C | Javascript** 
+- 🌱 Finished Learning **C | Javascript** | **React js**
 
 - 👯 I’m looking to collaborate with **Microsoft**
 
