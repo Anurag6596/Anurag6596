@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate with **Microsoft**
 
-- 💬 Ask me about **HTML CSS AND JAVASCRIPT C**
+- 💬 Ask me about **HTML CSS AND JAVASCRIPT C React.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
