@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/anuraggavhane34" target="blank"><img src="https://img.shields.io/twitter/follow/anuraggavhane34?logo=twitter&style=for-the-badge" alt="anuraggavhane34" /></a> </p>
 
-- 🔭 I’m currently working on **App Devlopment**
+- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 Finished Learning **C | Javascript** | **React js**
+- 🌱 Finished Learning **C | Javascript** | **React js  | Node ja | Cloud Computing**
 
 - 👯 I’m looking to collaborate with **Microsoft**
 
-- 💬 Ask me about **HTML CSS AND JAVASCRIPT C React.js**
+- 💬 Ask me about **HTML CSS AND JAVASCRIPT C React.js Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
